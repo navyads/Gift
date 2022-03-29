@@ -1,0 +1,31 @@
+#b1{
+    height: 100px;
+    background-image: linear-gradient(180deg, lightskyblue, pink);
+}
+#heading{
+    color: yellow;
+    text-shadow: 2px 2px 4px black;
+}
+#textBox{
+    background-color: pink;
+    border-radius: 15px;
+    height: 40px;
+}
+#grid{
+    background-color: greenyellow;
+    border-radius: 15px;
+    height: 40px;
+}
+#grid1{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
+    padding: 2px;
+    background-color: gainsboro;
+    border-radius: 10px;
+}
+p{
+    background-image: url("gift.jpg");
+    background-color: white;
+    width: 50px;
+    height: 50px;
+}
